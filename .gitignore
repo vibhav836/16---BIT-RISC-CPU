@@ -1,0 +1,22 @@
+# Logisim Evolution backup and temporary files
+*.circ~
+*.bak
+*.tmp
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Note: Do NOT ignore circuit/*.circ, documentation/*.md, programs/*.md, or images/*.png
+!circuit/*.circ
+!documentation/*.md
+!programs/*.md
+!images/*.png
